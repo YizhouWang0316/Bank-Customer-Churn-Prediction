@@ -129,14 +129,10 @@ The dataset includes a target variable, `Churn`, which indicates whether a custo
 To replicate this project, follow these steps:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/Bank_Customer_Churn_Prediction.git
+   git clone https://github.com/YizhouWang0316/Bank-Customer-Churn-Prediction.git
    ```
-2. **Install Required Libraries:**
-   Install the dependencies listed in `requirements.txt`:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter Notebook:**
+
+2. **Run the Jupyter Notebook:**
    Open the `.ipynb` file in Jupyter Notebook and run the cells sequentially.
 
 ---
