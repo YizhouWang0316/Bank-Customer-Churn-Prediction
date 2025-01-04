@@ -35,8 +35,7 @@ The dataset includes a target variable, `Churn`, which indicates whether a custo
   - **Data Analysis & Preprocessing:** Pandas, NumPy
   - **Data Visualization:** Matplotlib, Seaborn
   - **Machine Learning:** scikit-learn
-- **Jupyter Notebook:** For interactive development and analysis
-
+- **Google Colab:**
 ---
 
 ## **Project Workflow**
